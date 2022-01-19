@@ -1,5 +1,7 @@
 # delivery-app-sprint
 
+
+Note: check the sprint planning project on [Jira](https://delivery-app-gfs.atlassian.net/jira/software/projects/DEL/boards/1/roadmap?shared=&atlOrigin=eyJpIjoiNmU3OWRhNTk0NTRhNDE0MDhhNmUyNWNiNjk1ZWY0ZWQiLCJwIjoiaiJ9) 
 ### Scope
 
 A restaurant wants to set up an online ordering and delivery service, so people do not have to ring up to order food.
